@@ -1,4 +1,4 @@
-# CRM-Campaign-Optimization
+# CRM-Campaign-Analytics
 
 ## Project Overview  
 This project analyzes customer engagement data from three CRM channels—Emails, SMS, and WhatsApp—to improve campaign targeting and conversion rates. The objective is to identify segment-specific response patterns and provide data-driven recommendations for enhancing CRM strategies.  
